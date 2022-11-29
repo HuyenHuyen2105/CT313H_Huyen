@@ -4,8 +4,7 @@ class ContactService {
         this.contacts = knex("contacts");
     }
 
-    #
-    getContact(payload) {
+    #getContact(payload) {
         const contact = {...payload };
         const contactProperties = ["name", "email", "address", "phone", "favorite"];
         // Remove non-contact properties
