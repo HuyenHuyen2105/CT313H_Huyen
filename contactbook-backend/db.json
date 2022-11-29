@@ -1,0 +1,7 @@
+{
+  "contacts": [
+    { "id": 1, "name": "BichHuyen", "favorite": "eat" },
+    { "id": 2, "name": "BH2", "favorite": "eat to lunch" },
+    { "id": 3, "name": "Bihynee", "favorite": "draw picture" }
+  ]
+}
